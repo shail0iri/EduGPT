@@ -15,7 +15,7 @@ EduGPT is an advanced AI-powered educational platform that creates personalized 
 ![Diagram Description](Diagram.png)
 
 ## Demo
-
+![Input-your-learnoing-topic](Diagram.png)
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -83,6 +83,7 @@ Configuration
 Acknowledgments
 **Built with cutting-edge AI technologies** and 
 **Inspired by modern educational needs**
+
 
 
 
