@@ -26,24 +26,3 @@ EduGPT is an advanced AI-powered educational platform that creates personalized 
    git clone https://github.com/your-username/EduGPT.git
    cd EduGPT
 
-┌─────────────────────────────────────────────────────────────────┐
-│                    ROLE-PLAYING AGENT SYSTEM                    │
-├─────────────────┐                 ├─────────────────┐          │
-│   INSTRUCTOR    │                 │ TEACHING ASSISTANT         │
-│   AGENT         │                 │ AGENT                      │
-│                 │                 │                            │
-│ • Machine       │◄──DISCUSSION──►│ • Assists Instructor       │
-│   Learning      │                 │ • Provides Input           │
-│   Expert        │                 │ • Requests Information     │
-│ • Creates       │                 │ • Collaborates on Syllabus │
-│   Solutions     │                 │                            │
-└─────────────────┘                 └─────────────────┘          │
-                           │                                     │
-                           ▼                                     │
-┌─────────────────────────────────────────────────────────────────┐
-│                    SYLLABUS GENERATION                          │
-│                                                                 │
-│ 1. Course Description    3. Learning Objectives    5. Schedule  │
-│ 2. Required Materials    4. Grading Breakdown      6. Policies  │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
