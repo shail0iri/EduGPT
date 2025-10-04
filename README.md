@@ -29,8 +29,8 @@ EduGPT is an advanced AI-powered educational platform that creates personalized 
 
 
 2. **Install Dependencies**:
- '''bash
-    pip install -r requirements.txt
+    '''bash
+       pip install -r requirements.txt
 
 3. **Set up env**:
    '''bash
@@ -51,3 +51,4 @@ POST /api/chat - Send messages to EduGPT
 GET /api/subjects - Get available subjects
 
 POST /api/assessment - Create personalized assessments
+
