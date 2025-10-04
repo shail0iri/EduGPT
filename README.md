@@ -29,17 +29,17 @@ EduGPT is an advanced AI-powered educational platform that creates personalized 
 
 
 2. **Install Dependencies**:
-    '''bash
+   
        pip install -r requirements.txt
 
-3. **Set up env**:
-   '''bash
-   cp .env.example .env
-   # Edit .env with your API keys and configuration
+4. **Set up env**:
+   
+         cp .env.example .env
+         # Edit .env with your API keys and configuration
 
-4. **Run the Application**:
-    '''bash
-      python app.py
+6. **Run the Application**:
+
+         python app.py
 
 Usage
 Web Interface
@@ -52,3 +52,32 @@ GET /api/subjects - Get available subjects
 
 POST /api/assessment - Create personalized assessments
 
+**Example Usage:**
+      
+      from edugpt import EduGPT
+      assistant = EduGPT()
+      response = assistant.ask_question("Explain quantum physics in simple terms")
+      print(response)
+
+Configuration
+**Configure EduGPT by modifying the config.yaml file:**
+         
+         model:
+           name: "gpt-4"
+           temperature: 0.7
+           max_tokens: 1000
+         
+         education:
+           subjects: ["math", "science", "history", "literature"]
+           difficulty_levels: ["beginner", "intermediate", "advanced"]
+           
+         ui:
+           theme: "light"
+           language: "en"
+           
+Acknowledgments
+Built with cutting-edge AI technologies
+
+Inspired by modern educational needs
+
+Thanks to all our contributors and users
