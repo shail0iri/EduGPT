@@ -17,7 +17,7 @@ setup(
     url="https://github.com/shail0iri/EduGPT",
     python_requires=">=3.10",
     packages=find_namespace_packages(),
-    install_requires=[required_packages],
+    install_requires=required_packages,
     extras_require={
         "dev": ["pre-commit==2.19.0"],
     },
@@ -29,3 +29,4 @@ setup(
         "Programming Language :: Python :: 3.11",
     ],
 )
+
