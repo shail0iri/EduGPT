@@ -17,6 +17,7 @@ EduGPT is an advanced AI-powered educational platform that creates personalized 
 
 - Python 3.10+
 - Node.js 16+ (for MCP tools)
+- pip package manager
 - Google Gemini API key
 
 ### Installation
@@ -26,3 +27,27 @@ EduGPT is an advanced AI-powered educational platform that creates personalized 
    git clone https://github.com/your-username/EduGPT.git
    cd EduGPT
 
+
+2. **Install Dependencies**:
+ '''bash
+    pip install -r requirements.txt
+
+3. **Set up env**:
+   '''bash
+   cp .env.example .env
+   # Edit .env with your API keys and configuration
+
+4. **Run the Application**:
+    '''bash
+      python app.py
+
+Usage
+Web Interface
+Access the web interface at http://localhost:5000 after starting the application.
+
+API Endpoints
+POST /api/chat - Send messages to EduGPT
+
+GET /api/subjects - Get available subjects
+
+POST /api/assessment - Create personalized assessments
