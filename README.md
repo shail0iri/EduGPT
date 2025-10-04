@@ -79,8 +79,9 @@ Configuration
            language: "en"
            
 Acknowledgments
-**Built with cutting-edge AI technologies**
+**Built with cutting-edge AI technologies** and 
 **Inspired by modern educational needs**
+
 
 
 
