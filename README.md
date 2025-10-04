@@ -41,15 +41,14 @@ EduGPT is an advanced AI-powered educational platform that creates personalized 
 
          python app.py
 
-Usage
+Usage:
 Web Interface
-Access the web interface at http://localhost:5000 after starting the application.
+Access the web interface at (http://localhost:5000) after starting the application.
 
-API Endpoints
+
+API Endpoints:
 POST /api/chat - Send messages to EduGPT
-
 GET /api/subjects - Get available subjects
-
 POST /api/assessment - Create personalized assessments
 
 **Example Usage:**
@@ -58,6 +57,7 @@ POST /api/assessment - Create personalized assessments
       assistant = EduGPT()
       response = assistant.ask_question("Explain quantum physics in simple terms")
       print(response)
+
 
 Configuration
 **Configure EduGPT by modifying the config.yaml file:**
@@ -77,7 +77,5 @@ Configuration
            
 Acknowledgments
 Built with cutting-edge AI technologies
-
 Inspired by modern educational needs
 
-Thanks to all our contributors and users
