@@ -95,26 +95,20 @@ Configuration
 
 query
 📁 Benchmark Artifacts
-
-All benchmark results are stored under /benchmarks/:
-benchmarks/
-├── benchmark_summary.csv
-├── EduGPT_Benchmark_Summary.pdf
-├── syllabus.txt
-
+**All benchmark results are stored under /benchmarks/:**
 These files include detailed metrics, raw timing data, and full syllabus outputs for reproducibility.
 
 🏆 Key Achievements
-
-✅ 90%+ topical coverage accuracy
-✅ 70% reduction in educator prep time
-✅ 35% improvement in factual reliability (via API-integrated context chaining)
-✅ <10s syllabus generation speed per user query
+- ✅ 90%+ topical coverage accuracy
+- ✅ 70% reduction in educator prep time
+- ✅ 35% improvement in factual reliability (via API-integrated context chaining)
+- ✅ <10s syllabus generation speed per user query
 
 
 Acknowledgments
 **Built with cutting-edge AI technologies** and 
 **Inspired by modern educational needs**
+
 
 
 
