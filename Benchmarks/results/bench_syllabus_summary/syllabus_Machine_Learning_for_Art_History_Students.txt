@@ -1,0 +1,127 @@
+Okay, here's a course syllabus based on the conversation, designed for second-year Art History students with no prior programming experience.
+
+## **Course Syllabus: Decoding the Masters: Machine Learning for Art Historical Analysis**
+
+**Department:** Art History
+**Course Number:** (To be assigned)
+**Credits:** (To be assigned)
+**Semester:** (To be assigned)
+**Instructor:** (To be assigned)
+**Office:** (To be assigned)
+**Office Hours:** (To be assigned)
+**Teaching Assistant:** (To be assigned)
+**TA Office Hours:** (To be assigned)
+**Email:** (To be assigned)
+**Website/LMS:** (To be assigned)
+
+**1. Course Description:**
+
+"Decoding the Masters: Machine Learning for Art Historical Analysis" offers a unique opportunity for Art History students to explore the intersection of art and technology. Designed specifically for those with no prior programming experience, this course provides a gentle introduction to the world of machine learning and its applications in art historical research. We will investigate how computers can be trained to recognize artistic styles, detect potential forgeries, and trace the history of artworks through textual analysis. This course emphasizes hands-on learning using user-friendly tools and real-world examples. Students will learn to critically evaluate the potential and limitations of these technologies, as well as the ethical considerations involved in their use. By the end of this course, students will gain a foundational understanding of machine learning and its transformative potential within the field of art history, empowering them to ask new questions and approach art historical problems in innovative ways.
+
+**2. Target Audience:**
+
+*   Second-year Art History students
+*   No prior programming experience required
+
+**3. Learning Objectives:**
+
+Upon successful completion of this course, students will be able to:
+
+*   Define fundamental machine learning concepts and terminology relevant to art historical analysis.
+*   Apply image classification techniques to identify and categorize artistic styles using pre-trained models.
+*   Evaluate the potential of generative models to distinguish between original artworks and potential forgeries.
+*   Utilize textual analysis methods to extract and analyze provenance information from art-related documents.
+*   Critically assess the biases and limitations inherent in machine learning algorithms applied to art historical data.
+*   Articulate the ethical considerations surrounding the use of machine learning in art historical research and cultural heritage preservation.
+*   Design a small-scale art historical research project utilizing machine learning techniques.
+
+**4. Course Structure and Modules:**
+
+The course is divided into three main modules:
+
+**Module 1: Image Classification (Style Recognition)**
+
+*   **Description:** This module introduces the core concepts of image classification and its application to recognizing artistic styles. Students will learn how computers "see" images and how machine learning algorithms can be trained to identify patterns and features associated with different artists, periods, and movements.
+*   **Topics Covered:**
+    *   Introduction to digital image representation.
+    *   Basic principles of image classification algorithms (e.g., Convolutional Neural Networks - CNNs).
+    *   Using pre-trained models for style recognition (transfer learning).
+    *   Evaluating classifier performance (accuracy, precision, recall).
+    *   Bias and fairness in image classification.
+*   **Learning Activities:**
+    *   Hands-on exercises using Google Colab to classify images of artworks.
+    *   Analyzing the output of image classification models and interpreting their results.
+    *   Critically evaluating the limitations of image classification for style recognition.
+    *   Discussion of case studies where image classification has been used in art historical research.
+*   **Software/Tools:**
+    *   Google Colab
+    *   Teachable Machine
+    *   Clarifai
+
+**Module 2: Generative Models (Forgery Detection)**
+
+*   **Description:** This module explores the use of generative models, particularly Generative Adversarial Networks (GANs), for forgery detection. Students will learn how these models can be trained to generate images similar to a specific artist's style and how deviations from that style can be used to identify potential forgeries.
+*   **Topics Covered:**
+    *   Introduction to generative models and GANs.
+    *   Training GANs to generate art in a specific style.
+    *   Using GANs to identify anomalies and potential forgeries.
+    *   Evaluating the performance of GANs for forgery detection.
+    *   The ethics of using GANs for art authentication.
+*   **Learning Activities:**
+    *   Experimenting with pre-trained GANs to generate art in different styles.
+    *   Analyzing the output of GANs and identifying potential forgeries.
+    *   Discussing the limitations of GANs for art authentication.
+    *   Researching case studies where generative models have been used to detect forgeries.
+*   **Software/Tools:**
+    *   Google Colab
+    *   RunwayML
+    *   Artbreeder (formerly Ganbreeder)
+
+**Module 3: Textual Analysis (Provenance Research)**
+
+*   **Description:** This module introduces the application of textual analysis techniques to provenance research. Students will learn how to extract and analyze information from art-related documents, such as auction catalogs, exhibition records, and letters, to trace the ownership history of artworks.
+*   **Topics Covered:**
+    *   Introduction to Natural Language Processing (NLP).
+    *   Text pre-processing techniques (tokenization, stemming, lemmatization).
+    *   Named entity recognition (NER) for identifying people, places, and organizations.
+    *   Topic modeling for identifying key themes and topics in art-related texts.
+    *   Network analysis for visualizing provenance relationships.
+*   **Learning Activities:**
+    *   Hands-on exercises using NLTK to process and analyze art-related texts.
+    *   Extracting provenance information from digitized auction catalogs.
+    *   Creating network diagrams to visualize the ownership history of artworks.
+    *   Discussing the ethical considerations of using textual analysis for provenance research, including issues of data privacy and ownership.
+*   **Software/Tools:**
+    *   Google Colab
+    *   Voyant Tools
+    *   Palladio
+    *   Google Sheets/OpenRefine
+
+**5. Assessment:**
+
+*   (To be determined: e.g., Assignments, Quizzes, Midterm Exam, Final Project)
+    *   Consider weighting practical application (using the tools) heavily.
+    *   Include a final project where students design a small-scale art historical research project utilizing machine learning techniques.
+
+**6. Grading Breakdown:**
+
+*   (To be determined)
+
+**7. Required Readings:**
+
+*   (To be determined: Include online articles, tutorials, and potentially a textbook – keep in mind the audience's lack of programming experience.)
+
+**8. Recommended Readings:**
+
+*   (To be determined)
+
+**9. Course Policies:**
+
+*   **Attendance:** (To be determined)
+*   **Late Submissions:** (To be determined)
+*   **Academic Integrity:** Students are expected to adhere to the university's policies on academic integrity. Plagiarism or any other form of academic dishonesty will not be tolerated.
+*   **Disability Services:** Students with disabilities who may need accommodations in this class are encouraged to contact the Disability Services office at (Contact Information) as soon as possible to ensure that accommodations are implemented in a timely fashion.
+
+**10. Schedule:** (A week-by-week breakdown of topics and activities will be provided separately.)
+
+This syllabus provides a framework for the course. The instructor reserves the right to make changes to the syllabus as needed. Students will be notified of any changes in a timely manner.
