@@ -1,0 +1,6 @@
+Course,Generation Time (s),Accuracy (%),File Path
+Intro to Machine Learning,35.74,93,results/syllabus_Intro_to_Machine_Learning.txt
+Deep Learning Fundamentals,35.13,50,results/syllabus_Deep_Learning_Fundamentals.txt
+Data Science with Python,31.13,59,results/syllabus_Data_Science_with_Python.txt
+Computer Vision,30.02,70,results/syllabus_Computer_Vision.txt
+Natural Language Processing,28.71,50,results/syllabus_Natural_Language_Processing.txt
