@@ -84,7 +84,7 @@ Configuration
            language: "en"
 
 
-##📊 Benchmark Results
+📊 Benchmark Results
 **EduGPT was benchmarked across four key performance dimensions to validate accuracy, efficiency, and usability.**
 | Test                                          | Focus                           | Key Metrics                                                | Highlights                                                         |
 | --------------------------------------------- | ------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------ |
