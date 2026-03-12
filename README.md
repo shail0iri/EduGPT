@@ -1,15 +1,15 @@
-# 🎓 EduGPT - Your AI Instructor with MCP Tools
+#  EduGPT - Your AI Instructor with MCP Tools
 
 EduGPT is an advanced AI-powered educational platform that creates personalized course syllabi and provides interactive teaching using Google Gemini AI and MCP (Model Context Protocol) tools.
 
 ## ✨ Features
 
-- 🤖 **AI-Powered Syllabus Generation**: Create comprehensive course outlines automatically
-- 👨‍🏫 **Interactive AI Instructor**: Personalized, adaptive teaching sessions
-- 🛠️ **MCP Tools Integration**: Real-time Wikipedia research, file system access, and more
-- 🎯 **Multi-Subject Support**: From programming to humanities
-- 💬 **Web Interface**: User-friendly Gradio interface
-- 🔧 **Extensible Architecture**: Easy to add new tools and features
+-  **AI-Powered Syllabus Generation**: Create comprehensive course outlines automatically
+-  **Interactive AI Instructor**: Personalized, adaptive teaching sessions
+-  **MCP Tools Integration**: Real-time Wikipedia research, file system access, and more
+-  **Multi-Subject Support**: From programming to humanities
+-  **Web Interface**: User-friendly Gradio interface
+-  **Extensible Architecture**: Easy to add new tools and features
 
 ## Workflow
 ![Diagram Description](docs/Diagram.png)
@@ -17,7 +17,7 @@ EduGPT is an advanced AI-powered educational platform that creates personalized 
 ## Demo
 ![Input-your-learnoing-topic](Outputs/Input-your-learning-topic.png)
 ![MCP-tools-management](Outputs/MCP-tools-management.png)
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -88,26 +88,27 @@ Configuration
 **EduGPT was benchmarked across four key performance dimensions to validate accuracy, efficiency, and usability.**
 | Test                                          | Focus                           | Key Metrics                                                | Highlights                                                         |
 | --------------------------------------------- | ------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------ |
-| 🧠 **Test 1 — Automated Syllabus Generation** | Generation speed & coverage     | Avg. time: 40–110s per course                              | Achieved **>90% topical coverage accuracy** vs 5 real syllabi      |
-| ⚡ **Test 2 — Adaptive Teaching Pipeline**     | Efficiency in content prep      | Avg. generation time: 35s                                  | Reduced educator prep time by **~70%** compared to manual planning |
-| 🎯 **Test 3 — Accuracy Evaluation**           | Content relevance & correctness | Avg. accuracy: 70%+                                        | Validated syllabus alignment with domain content (e.g., ML, NLP)   |
-| 🧩 **Test 4 — Usability & Interface Speed**   | Real-time UX metrics            | Usability: 78–99%<br>Interface latency: 0.4–0.7s/100 chars | Web interface generates results in **under 10s/query**             |
+|  **Test 1 — Automated Syllabus Generation** | Generation speed & coverage     | Avg. time: 40–110s per course                              | Achieved **>90% topical coverage accuracy** vs 5 real syllabi      |
+|  **Test 2 — Adaptive Teaching Pipeline**     | Efficiency in content prep      | Avg. generation time: 35s                                  | Reduced educator prep time by **~70%** compared to manual planning |
+|  **Test 3 — Accuracy Evaluation**           | Content relevance & correctness | Avg. accuracy: 70%+                                        | Validated syllabus alignment with domain content (e.g., ML, NLP)   |
+|  **Test 4 — Usability & Interface Speed**   | Real-time UX metrics            | Usability: 78–99%<br>Interface latency: 0.4–0.7s/100 chars | Web interface generates results in **under 10s/query**             |
 
 query
-📁 Benchmark Artifacts
+ Benchmark Artifacts
 **All benchmark results are stored under /benchmarks/:**
 These files include detailed metrics, raw timing data, and full syllabus outputs for reproducibility.
 
-🏆 Key Achievements
-- ✅ 90%+ topical coverage accuracy
-- ✅ 70% reduction in educator prep time
-- ✅ 35% improvement in factual reliability (via API-integrated context chaining)
-- ✅ <10s syllabus generation speed per user query
+Key Achievements
+-  90%+ topical coverage accuracy
+-  70% reduction in educator prep time
+-  35% improvement in factual reliability (via API-integrated context chaining)
+-  <10s syllabus generation speed per user query
 
 
 Acknowledgments
 **Built with cutting-edge AI technologies** and 
 **Inspired by modern educational needs**
+
 
 
 
